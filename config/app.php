@@ -231,3 +231,4 @@ return [
         'LogTarget' => Pterodactyl\Facades\LogTarget::class,
     ])->toArray(),
 ];
+
